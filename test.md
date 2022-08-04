@@ -9,3 +9,5 @@ functionallity
 лайфхак чтобы обьединить add и commit 
 
 git commit -am "save2"
+
+git diff
