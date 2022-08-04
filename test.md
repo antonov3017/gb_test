@@ -6,4 +6,6 @@ programm 1
 
 functionallity
 
-лайфхак чтобы обьединить add и commit
+лайфхак чтобы обьединить add и commit 
+
+git commit -am "save2"
