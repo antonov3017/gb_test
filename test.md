@@ -5,3 +5,5 @@
 programm 1
 
 functionallity
+
+лайфхак чтобы обьединить add и commit
