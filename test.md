@@ -11,3 +11,5 @@ functionallity
 git commit -am "save2"
 
 git diff
+
+Я Джун, мне доверили чио-то, главное не накосячить...
